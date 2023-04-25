@@ -1,0 +1,28 @@
+// OBJECT DETECTORS
+// SSD (0)
+blob average:     3.25
+input average:    0.52
+forward average: 87.14
+process average:  0
+
+
+// YOLO (1)
+blob average:       6.24
+input average:      1.37
+forward average: 1075.34	//Why so slow?????
+process average:    4.68	//YOLO need to perform Non Maxima Suppression
+
+
+// OBJECT CLASSIFIERS
+// ResNet50 (0)
+blob average:     1.41
+input average:    0.25
+forward average: 70.31
+process average:  0.05
+
+
+// GoogleNet (1)
+blob average:     1.33
+input average:    0.29
+forward average: 71.56
+process average:  0.03
