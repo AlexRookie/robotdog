@@ -1,0 +1,33 @@
+{
+    "address_cluster" : "tcp://127.0.0.1",
+    "port_cluster" : "3211",
+    "topic_cluster" : "TLD",
+    
+    "address_humPos" : "tcp://127.0.0.1",
+    "port_humPos" : "3218",
+    "topic_humPos" : "HUM_POS",
+
+    "address_3Dcam" : "tcp://127.0.0.1",
+    "port_3Dcam" : "3210",
+    "topic_3Dcam" : "T3D",
+
+    "address_lidar" : "tcp://127.0.0.1",
+    "port_lidar" : "7500",
+    "topic_lidar" : "LIDAR",
+
+    "address_odom" : "tcp://10.196.80.135",
+    "port_odom" : "9813",
+    "topic_odom" : "ODOM",
+
+    "address_loc" : "tcp://10.196.80.135",
+    "port_loc" : "9207",
+    "topic_loc" : "POS",
+
+    "address_path" : "tcp://10.196.80.135",
+    "port_path" : "3221",
+    "topic_path" : "PATH",
+
+    "address_predPos" : "tcp://127.0.0.1",
+    "port_predPos" : "3400",
+    "topic_predPos" : "PRED_POS"
+}
