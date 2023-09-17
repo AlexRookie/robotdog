@@ -2,6 +2,11 @@
 Novel approach for guiding a robot across a natural environment populated with a number of intruders.
 Source code related to the paper ["Humans as path-finders for mobile robots using teach-by-showing navigation"](https://link.springer.com/article/10.1007/s10514-023-10125-5), Autonomous Robots 2023.
 
+![robotdogfig1](https://github.com/AlexRookie/robotdog/files/12642712/Figure1a.pdf)
+
+Youtube video can be found here:
+[https://www.youtube.com/watch?v=81Mfialp6dc](https://www.youtube.com/watch?v=81Mfialp6dc&ab_channel=IDRA-UNITNInterdep.InstituteofRobotics)
+
 ### Requirements
 - None.
 
